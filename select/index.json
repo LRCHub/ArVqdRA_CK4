@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "恋の中",
+  "base_artist": "マカロニえんぴつ",
+  "createdAt": "2025-12-15T13:23:31.008554Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋の中",
+      "artist": "Macaroni Empitsu",
+      "has_synced": true,
+      "path": "select/01_恋の中_Macaroni_Empitsu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "恋の中",
+      "artist": "マカロニえんぴつ",
+      "has_synced": true,
+      "path": "select/02_恋の中_マカロニえんぴつ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "恋の中",
+      "artist": "新山 詩織",
+      "has_synced": true,
+      "path": "select/03_恋の中_新山_詩織.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "恋の中",
+      "artist": "新山詩織",
+      "has_synced": true,
+      "path": "select/04_恋の中_新山詩織.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "恋の中",
+      "artist": "新山詩織",
+      "has_synced": true,
+      "path": "select/05_恋の中_新山詩織.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋の中",
+      "artist": "マカロニえんぴつ",
+      "has_synced": false,
+      "path": "select/pl_01_恋の中_マカロニえんぴつ.txt"
+    }
+  ]
+}
